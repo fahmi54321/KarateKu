@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.karateku">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logopadangintl2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight">
+        <activity android:name=".TentangAct"></activity>
+        <activity android:name=".EditPesertaAct" />
+        <activity android:name=".PesertaDetails" />
+        <activity android:name=".DetailsPesertaAct" />
+        <activity android:name=".PhotoPassportAct" />
+        <activity android:name=".PhotoKitasAct" />
+        <activity android:name=".PhotoKtpAct" />
+        <activity android:name=".PhotoKKAct" />
+        <activity android:name=".UploadScanAct" />
+        <activity android:name=".LoginSuccessAct" />
+        <activity android:name=".RegisterSuccessDuaAct" />
+        <activity android:name=".NewAccountEmpatAct" />
+        <activity android:name=".NewAccountTigaAct" />
+        <activity android:name=".RegisterSuccessAct" />
+        <activity android:name=".NewAccountDuaAct" />
+        <activity android:name=".NewAccountSatuAct" />
+        <activity android:name=".GetStartedAct" />
+        <activity android:name=".SigninAct" />
+        <activity android:name=".SplashAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

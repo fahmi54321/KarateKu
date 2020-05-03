@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712383593881",
+    "firebase_url": "https://karateku-e5bb6.firebaseio.com",
+    "project_id": "karateku-e5bb6",
+    "storage_bucket": "karateku-e5bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712383593881:android:93faf4df93ca54b212e708",
+        "android_client_info": {
+          "package_name": "com.example.karateku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712383593881-csrb67h3bt6325n1901mh9d1ulh1fdmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karateku",
+            "certificate_hash": "109ac084f2a9e078457d4ab54a0df270d0664db8"
+          }
+        },
+        {
+          "client_id": "712383593881-cljvca566gikrhv2ksg1h3mva5dc9rh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL4USn6uiJZhBFj68ZcL8BefyH_7sEvcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712383593881-cljvca566gikrhv2ksg1h3mva5dc9rh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

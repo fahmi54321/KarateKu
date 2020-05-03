@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">KarateKu</string>
+    <string name="judul">Wisata Jadi Lebih Asyik</string>
+    <string name="signin">Sign In</string>
+    <string name="new_account">New Account</string>
+    <string name="NamaLengkap">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="Continue">Continue</string>
+    <string name="BuyTickets">Buy Tickets</string>
+    <string name="PayNow">Pay Now</string>
+
+    <string name="kontingen">Kontingen / Dojo</string>
+    <string name="Manager">Manager</string>
+    <string name="NoHpManager">No Hp Manager</string>
+    <string name="Official">Official</string>
+    <string name="NoHpOfficial">No Hp Official</string>
+    <string name="Pelatih">Pelatih</string>
+    <string name="NoHpPelatih">No Hp Pelatih</string>
+    <string name="JumlahKelas">Jumlah Kelas Yang Diikuti</string>
+
+    <string name="NamaAtlet">Nama Atlet</string>
+    <string name="TTL">Tanggal/Bulan/Tahun Lahir</string>
+    <string name="KelasYangDiikuti">Kelas Yang Diikuti</string>
+    <string name="Kartu">KK/KTP/Kitas/Passport</string>
+    <string name="FotoAltlet">Foto Atlet</string>
+
+    <string name="EditProfile">Edit Profile</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Information">Information</string>
+    <string name="Refund">Refund Now</string>
+    <string name="SaveProfile">Save Profile</string>
+</resources>
